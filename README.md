@@ -6,10 +6,10 @@
 * Built a sentiment analysis dashboard
 
 ## Code & Resources Used
-**Jupyter Notebooks:** Python 3  
-**Packages:** pandas, requests, bs4, pymongo, nltk, vaderSentiment  
-**Other Tools:** MongoDB Atlas, Power BI Desktop  
-**Website Scraped:** https://www.consumeraffairs.com  
+* **Jupyter Notebooks:** Python 3  
+* **Packages:** pandas, requests, bs4, pymongo, nltk, vaderSentiment  
+* **Other Tools:** MongoDB Atlas, Power BI Desktop  
+* **Website Scraped:** https://www.consumeraffairs.com  
 
 ## Web Scraping, Feature Engineering & Data Cleaning
 First, I scraped 110 consumer reviews for Subway, McDonald's and Burger King each off the website mentioned above.
